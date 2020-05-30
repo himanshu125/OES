@@ -1,0 +1,30 @@
+How to run the Online Examination System (OES) Project
+1. Download the zip file
+
+2. Extract the file and copy oes folder
+
+3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+5. Create a database with name project
+
+6. Import project.sql file(given inside the zip package in SQL file folder)
+
+7.Run the script http://localhost/oes (frontend)
+
+8. For admin panel
+
+http://localhost/oes (Admin Login)
+
+Credential for Admin:
+
+Username: myadmin@gmail.com 
+Password: Test@123
+
+http://localhost/oes (Student Login)
+
+Credential for Student Signin:
+
+Username: k4kavyaofficial@gmail.com
+Password: password
